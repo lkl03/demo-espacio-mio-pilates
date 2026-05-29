@@ -1,2 +1,7 @@
-# demo-espacio-mio-pilates
-Demo web para Espacio Mío Pilates — diseñada por eterlab.
+# Espacio Mío Pilates
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
